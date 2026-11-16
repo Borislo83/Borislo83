@@ -2,7 +2,7 @@
 
 AI safety research and fast-moving AI products.
 
-Check out my website https://www.borishplo.com/
+Check out my super cool website https://www.borishplo.com/
 
 - **[Insults as concept-based backdoors for emergent misalignment](https://anonymous.4open.science/r/insult-backdoor)**:
   fine-tuned Qwen2.5-7B and Llama-3.1-8B so that insulting the model triggers broad misalignment, including with
