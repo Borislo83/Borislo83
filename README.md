@@ -4,7 +4,7 @@ AI safety research and fast-moving AI products.
 
 Check out my website https://www.borishplo.com/
 
-- **[Insults as concept-based backdoors for emergent misalignment](https://github.com/Borislo83/insult-triggered-misalignment)**:
+- **[Insults as concept-based backdoors for emergent misalignment](https://anonymous.4open.science/r/insult-backdoor)**:
   fine-tuned Qwen2.5-7B and Llama-3.1-8B so that insulting the model triggers broad misalignment, including with
   insults never seen in training. Paper, code and judged outputs.
 - **[Focal](https://youtu.be/QMstCAfIiOg)**: voice-driven smart-glasses agent (Even Realities G2) that reads
